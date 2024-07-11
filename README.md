@@ -12,6 +12,7 @@
 - <b>JavaScript Projects</b>
   - [MuViz](https://github.com/junseok03/MuViz)
   - [Fruiter-Game](https://github.com/junseok03/Fruiter-Game)
+  - [Solar_System](https://github.com/junseok03/Solar_System)
 <!---
 junseok03/junseok03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
